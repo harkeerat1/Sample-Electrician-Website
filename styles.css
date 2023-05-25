@@ -1,0 +1,316 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+
+.head header{
+    background-color: rgb(175, 159, 219);
+
+    
+
+    
+}
+
+.head li{
+    display:inline;
+    padding-left:25px;
+    padding-right:25px;
+
+    
+}
+
+.head li:hover{
+    background-color: white;
+    cursor:pointer;
+    padding-top:15px;
+}
+
+.head ul{
+    text-align: center;
+
+    padding:5px;
+    padding-bottom:0;
+
+
+
+    
+   
+}
+
+.pt2 {
+    background-color: rgb(90, 61, 216);
+    color:white;
+
+    height:150px;
+}
+
+.pt2 h1,h4{
+    padding-left:8%;
+    
+}
+
+.pt2 h1{
+    
+    font-family: 'Bebas Neue';
+    font-size:40px;
+    padding-top:15px;
+}
+
+.pt2 h4{
+    font-family: 'Pangolin', cursive;
+}
+
+
+
+.pt2 ul{
+    padding-top:30px;
+}
+
+.pt2 li{
+    font-family:Arial;
+    font-weight:550;
+
+    
+}
+
+.pt2 li:hover{
+    background-color: blueviolet;
+    padding-top:10px;
+    padding-bottom:11px;
+    cursor:pointer;
+    border-radius: 15px;
+
+}
+
+.vid img{
+    width:100%;
+
+    opacity: 0.5;
+
+    display: block; /* Add this line to remove any remaining whitespace */
+  margin: 0; /* Add this line to remove default margin */
+  padding: 0;
+    
+    
+}
+
+.vid{
+    background-color: rgb(55, 25, 192);
+    
+    
+}
+
+.intro{
+    text-align:center;
+    
+
+    background-color:rgb(52, 31, 146);
+
+    color:white;
+}
+
+.intro h2{
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top:25px;
+    padding-bottom:50px;
+    color:rgb(219, 174, 25);
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,500&display=swap');
+
+.intro p{
+    font-family: 'Roboto Mono', monospace;
+    font-size:18px;
+
+
+}
+
+.pgph{
+   
+    width:75%;
+    margin:0 auto;
+
+}
+
+.intro img{
+    padding-top:50px;
+
+    
+   
+}
+
+.bottomimg{
+    padding-bottom:25px;
+}
+
+.submain{
+    background-color:rgb(45, 20, 156);
+    text-align: center;
+    color:white;
+}
+
+.submain p{
+    font-family: 'Roboto Mono', monospace;
+    font-size:18px;
+}
+
+.pgph2{
+   
+    width:75%;
+    margin:0 auto;
+
+    padding-top:25px;
+    padding-bottom:45px;
+
+}
+
+.submain img{
+    padding-bottom:20px;
+}
+
+
+
+.reviews{
+    background-color:rgb(22, 4, 100);
+    color:white;
+    text-align: center;
+
+   
+
+}
+
+.reviews h2{
+    color:rgb(219, 174, 25);
+    padding-top:25px;
+    padding-bottom:25px;
+}
+
+.reviews h3{
+    padding-bottom:25px;
+    color:rgba(190, 156, 44, 0.829)
+}
+
+.reviewbody{
+
+    width:75%;
+    margin:0 auto;
+
+    padding-top:25px;
+    padding-bottom:45px;
+
+    text-align: center;
+    
+}
+
+.reviewbody h3{
+    padding-bottom:50px;
+}
+
+.reviewbody h4{
+    padding-bottom:25px;
+}
+
+.reviewbody p{
+    padding-bottom:25px;
+}
+
+.reviews h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.reviews h3{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.reviews h4{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:18px;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap');
+.reviews p{
+    font-family: 'Montserrat', sans-serif;
+    font-size:19px;
+    color:aqua;
+}
+
+.reviews p{
+    padding-bottom:75px;
+}
+
+.foot h1{
+    
+    font-family: 'Bebas Neue';
+    
+}
+
+.foot h4{
+    font-family: 'Pangolin', cursive;
+}
+
+.foot{
+    background-color: rgb(42, 162, 170);
+    color:white;
+    text-align: center;
+}
+
+.foot h3{
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+.adress{
+    padding-bottom:50px;
+    padding-top:35px;
+}
+
+.adress p{
+   font-family:Arial, Helvetica, sans-serif; 
+   
+}
+
+.labels li{
+    display:inline;
+    padding:10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:1000;
+    
+
+}
+
+.labels li:hover{
+    cursor:pointer;
+    color:purple;
+}
+
+.labels{
+    padding-bottom:50px;
+}
+
+.about{
+    padding-bottom:50px;
+
+    width:75%;
+    margin:0 auto;
+
+    
+}
+
+.about p{
+    font-family: Arial, Helvetica, sans-serif;
+    color:bisque;
+}
+
+.logo{
+    text-align:left;
+
+    padding-left: 100px;
+    
+}
+
+
